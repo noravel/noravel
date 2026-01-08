@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Nora Le
+
+Welcome to my profile! I'm an aspiring healthcare data analyst :chart_with_upwards_trend:. I want to use my technical skills to help people . I also love cybersecurity and morning walks :runner:
 
 <!--
 **noravel/noravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
