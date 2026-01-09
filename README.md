@@ -16,7 +16,7 @@ Analyzed 100K+ patient records to identify readmission risk patterns and interve
 
 <!--CV goes here-->
 
-<!-- connect here: linkedin -->>
+<!-- connect here: linkedin -->
 
 <!--
 **noravel/noravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
