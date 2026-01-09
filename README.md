@@ -4,10 +4,11 @@
 I'm passionate about using data to improve patient outcomes and healthcare operations.
 
 **Featured: Hospital Readmission Dashboard**
+
 Analyzed 100K+ patient records to identify readmission risk patterns and intervention opportunities
 → [See the analysis](link)
 
-**Tech Stack:** Python • SQL • Tableau • R • Machine Learning
+**Tech Stack:** Python (Pandas, Numpy) • SQL • Tableau • R • Excel 
 
 **Healthcare IT Interests:** Epic Systems • EHR Implementation • Clinical Analytics
 
