@@ -1,6 +1,21 @@
-## Hi I'm Nora Le
+## Hi, I'm Nora Le 👋
+**Aspiring Healthcare Data Analyst**
 
-Welcome to my profile! I'm an aspiring healthcare data analyst :chart_with_upwards_trend:. I want to use my technical skills to help people :green_heart:. I also love cybersecurity and morning walks :runner:
+I'm passionate about using data to improve patient outcomes and healthcare operations.
+
+**Featured: Hospital Readmission Dashboard**
+Analyzed 100K+ patient records to identify readmission risk patterns and intervention opportunities
+→ [See the analysis](link)
+
+**Tech Stack:** Python • SQL • Tableau • R • Machine Learning
+
+**Healthcare IT Interests:** Epic Systems • EHR Implementation • Clinical Analytics
+
+📬 [https://www.linkedin.com/in/noravel/](link) • [nora.nganle@gmail.com](link)
+
+<!--CV goes here-->
+
+<!-- connect here: linkedin -->>
 
 <!--
 **noravel/noravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
