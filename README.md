@@ -6,7 +6,7 @@ I'm passionate about using data to improve patient outcomes and healthcare opera
 **Featured: Hospital Readmission Dashboard**
 
 Analyzed 100K+ patient records to identify readmission risk patterns and intervention opportunities
-→ [See the analysis](link)
+→ [See the analysis](https://github.com/noravel/Hospital-30-day-Readmission-Analysis/edit/main/README.md)
 
 **Tech Stack:** Python (Pandas, Numpy) • SQL • Tableau • R • Excel 
 
